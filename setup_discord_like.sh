@@ -55,4 +55,4 @@ fi
 sudo rm -f /usr/local/bin/pnpm /usr/local/bin/pnpx || true
 
 log "Installing pnpm globally"
-cor
+curl
